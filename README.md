@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe
 - 👀 I’m interested in self-taught code
-- 🌱 I’m currently learning java, algorithms and github
+- 🌱 I’m currently learning java, algorithms and git.
 - 💞️ I’m looking to collaborate on beginner friendly projects and attend in-person events
 - 📫 How to reach me twitter: @joeoverflowcode 
 
