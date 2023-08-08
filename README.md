@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joe
-- 👀 I’m interested in self-taught code
-- 🌱 I’m currently learning java, algorithms and git.
-- 💞️ I’m looking to collaborate on beginner friendly projects and attend in-person events
+- 🌱 I’m currently enrolled at DevMountain at the Dallas cohort.
+- 💞️ I’m learning full stack web development implementing node, javascript, SQL, algorithms and git.
 - 📫 How to reach me twitter: @joeoverflowcode 
 
 <!---
