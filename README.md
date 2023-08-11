@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe
-- 🌱 I’m currently enrolled at DevMountain at the Dallas cohort.
-- 💞️ I’m learning full stack web development implementing node, javascript, SQL, algorithms and git.
+- 🌱 I’m currently enrolled at DevMountain at the Dallas, Texas onsite campus.
+- 💞️ I’m learning full stack web development, javascript, HTML, CSS, SQL, and git.
 - 📫 How to reach me twitter: @joeoverflowcode 
 
 <!---
