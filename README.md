@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Joe
-- 🌱 I’m currently enrolled at DevMountain at the Dallas, Texas onsite campus
-- 💞️ I’m learning full stack web development, javascript, HTML, CSS, and git
-- 📫 How to reach me twitter: @joeoverflowcode 
+-  I’m Joe
+-  I’m currently enrolled at DevMountain at the Dallas, Texas onsite campus
+-  I’m learning full stack web development, with javascript, React, Express, and PostgresSQL
+-  How to reach me twitter: @joeoverflowcode 
 
 <!---
 joeoverflowcode/joeoverflowcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
