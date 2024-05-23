@@ -1,15 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joeoverflowcode.joeoverflowcode" />
 <br/>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hey+There+👋;" />
+</div>
+
+<h2 align="center">My name is Joe! <br/>I'm a software developer from Dallas, Texas 🇺🇸
+<br/>
 <div align=center>
 <img src="https://github.com/joeoverflowcode/joeoverflowcode/blob/main/readme.png" width="200"/>
 </div>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Hey+There!+👋;;" />
-</p>
-
-<h2 align="center">My name is Joe. <br/>I'm a software developer from Dallas, Texas 🇺🇸
-<br/>
 </h2>
+
 
 <p align="center">
 Passionate about solving problems, teamwork, and teaching.<br/> Let's get in touch!
