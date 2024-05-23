@@ -9,6 +9,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,mongodb,nextjs,python,bootstrap,java,html,css,vscode,github,figma,tailwind,git,express,rust,appwrite,npm,postman,rails,redux,remix,ruby,vscode,vite,nodejs,postgresql,vercel&perline=5" />
 </div>
+<div>
+<img src="https://github.com/joeoverflowcode/joeoverflowcode/blob/main/readme.png" />
+</div>
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,javascript,python,next,typescript,tailwind,html,css,java,nodejs,figma,&theme=dark&perline=4)](https://skillicons.dev) -->
 
