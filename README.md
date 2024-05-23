@@ -17,11 +17,12 @@
 <li>Teaching</li>
 </ul>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,java,nextjs,tailwind,python,bootstrap,mongodb,figma,express,postgresql,rust,vercel,appwrite,postman,remix,redux,vite,&perline=6" />
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,java,nextjs,tailwind,python,bootstrap,mongodb,figma,express,postgresql,rust,vercel,appwrite,postman,remix,redux,vite,&perline=8" />
 </div>
 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/joeoverflowcode/joeoverflowcode/output/github-contribution-grid-snake.svg" />
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,javascript,python,next,typescript,tailwind,html,css,java,nodejs,figma,&theme=dark&perline=4)](https://skillicons.dev) -->
 
