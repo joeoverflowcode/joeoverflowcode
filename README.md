@@ -3,24 +3,42 @@
 <div align=center>
 <img src="https://github.com/joeoverflowcode/joeoverflowcode/blob/main/readme.png" width="200"/>
 </div>
-<h1 align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Hey+There!+👋;;" />
-</h1>
+</p>
 
-<h3 align="center">My name is Joe! <br/>I am a software developer from Dallas, Texas 🇺🇸</h3>
+<h2 align="center">My name is Joe. <br/>I'm a software developer from Dallas, Texas 🇺🇸
+<br/>
+</h2>
+
+<h4 align="center">
+Passionate about solving problems, teamwork, and teaching.<br/> Let's get in touch!
+
+</h4>
+
+<div align="center"> 
+    <a href="https://joeoverflowcode.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="mailto:aguado.joe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+    <a href="https://www.linkedin.com/in/joeaguado/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  </div>
 
 
-#### I'm passionate about
-<ul>
-<li>Solving problems</li>
-<li>Team Work</li>
-<li>Teaching</li>
-</ul>
+
+
+
+
+
   <h3 align='center'> My Github Contributions 🐍</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/joeoverflowcode/joeoverflowcode/output/github-contribution-grid-snake.svg" />
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="left">
+<h2 align="center">Languages ⚒️ Frameworks ⚒️ Tools </h2>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,java,nextjs,tailwind,python,bootstrap,mongodb,figma,express,postgresql,rust,vercel,appwrite,postman,remix,redux,vite,&perline=8" />
 </div>
 
