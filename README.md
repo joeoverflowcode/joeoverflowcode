@@ -7,11 +7,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=3000&lines=Hey+There!+👋;+I'm+Joe+!;" />
 </h1>
 
-<h3 align="center">I'm a passionate software developer from Dallas, Texas</h3>
+<h3 align="center">I'm a software developer from Dallas, Texas</h3>
+<br />
+ 
+### I'm passionate about 
+- Solving problems
+- Team Work
+- Teaching
 
+<!-- <ul>
+<li>Solving problems</li>
+<li>Building</li>
+<ul> -->
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,mongodb,nextjs,python,bootstrap,java,html,css,vscode,github,figma,tailwind,git,express,rust,appwrite,npm,postman,rails,redux,remix,ruby,vscode,vite,nodejs,postgresql,vercel&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,java,nextjs,tailwind,python,bootstrap,mongodb,figma,express,postgresql,rust,vercel,appwrite,postman,remix,redux,vite,&perline=6" />
 </div>
 
 
