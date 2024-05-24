@@ -2,19 +2,20 @@
 <br/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hey+There+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=3000&lines=Hey+There+👋;" />
 </div>
 
 <div align=center>
-<img src="https://github.com/joeoverflowcode/joeoverflowcode/blob/main/readme2.png" width="400"/>
+<img src="https://github.com/joeoverflowcode/joeoverflowcode/blob/main/readme3.png" width="400"/>
 </div>
-<h1 align="center">My name is Joe! <br/>I'm a software developer from Dallas, Texas 🇺🇸
-<br/>
-</h1>
+<h1 align="center">My name is Joe! <br/>
+I'm a software developer from Dallas, Texas 🇺🇸</h1> 
+
+
 
 
 <h3 align="center">
-Passionate about solving problems, teamwork, and teaching.<br/> Let's get in touch!
+Passionate about solving problems and teamwork.<br/> Let's get in touch!
 
 </h3>
 
@@ -32,14 +33,14 @@ Passionate about solving problems, teamwork, and teaching.<br/> Let's get in tou
 
 
 
-  <h2 align='center'>Contributions 🐍</h2>
+  <h2 align='center'>Git 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/joeoverflowcode/joeoverflowcode/output/github-contribution-grid-snake.svg" />
-<h2 align="center">Languages ⚒️ Frameworks ⚒️ Tools </h2>
+<h2 align="center">Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,java,nextjs,tailwind,python,bootstrap,mongodb,figma,express,postgresql,rust,vercel,appwrite,postman,remix,redux,vite,&perline=8" />
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats ⚡</h2>
 
 <div align="center">
   <img  src="https://streak-stats.demolab.com/?user=joeoverflowcode&theme=meta-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" />
