@@ -6,7 +6,7 @@
 </div>
 
 <div align=center>
-<img src="https://github.com/joeoverflowcode/joeoverflowcode/blob/main/readme3.png" width="400"/>
+<img src="https://github.com/joeoverflowcode/joeoverflowcode/blob/main/readme4.png" width="400"/>
 </div>
 <h1 align="center">My name is Joe! <br/>
 I'm a software developer from Dallas, Texas 🇺🇸</h1> 
@@ -37,7 +37,7 @@ Passionate about solving problems and teamwork.<br/> Let's get in touch!
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/joeoverflowcode/joeoverflowcode/output/github-contribution-grid-snake.svg" />
 <h2 align="center">Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,java,nextjs,tailwind,python,bootstrap,mongodb,figma,express,postgresql,rust,vercel,appwrite,postman,remix,redux,vite,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,java,nextjs,tailwind,python,bootstrap,mongodb,figma,express,postgresql,rust,vercel,appwrite,postman,remix,redux,vite,&perline=6" />
 </div>
 
 <h2 align="center">Stats ⚡</h2>
