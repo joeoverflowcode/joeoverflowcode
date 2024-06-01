@@ -45,6 +45,13 @@ Passionate about tech, the outdoors and community.<br/> Let's get in touch!
 <div align="center">
   <img  src="https://streak-stats.demolab.com/?user=joeoverflowcode&theme=meta-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" />
   </div>
+
+
+  ![Glitch Image](https://luminous-gorgeous-stegosaurus.glitch.me/)
+
+
+![Image Description](https://luminous-gorgeous-stegosaurus.glitch.me/)
+
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,javascript,python,next,typescript,tailwind,html,css,java,nodejs,figma,&theme=dark&perline=4)](https://skillicons.dev) -->
 
 
