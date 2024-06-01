@@ -47,20 +47,10 @@ Passionate about tech, the outdoors and community.<br/> Let's get in touch!
   </div>
 
 
-  ![Glitch Image](https://luminous-gorgeous-stegosaurus.glitch.me/)
 
 
-![Image Description](https://luminous-gorgeous-stegosaurus.glitch.me/)
 
-<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
-  <iframe
-    src="https://glitch.com/embed/#!/embed/luminous-gorgeous-stegosaurus?path=index.html&previewSize=0"
-    title="luminous-gorgeous-stegosaurus on Glitch"
-    allow="geolocation; microphone; camera; midi; encrypted-media; xr-spatial-tracking; fullscreen"
-    allowFullScreen
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
-</div>
+<iframe src="https://glitch.com/embed/#!/embed/luminous-gorgeous-stegosaurus?previewSize=0&attributionHidden=false&sidebarCollapsed=false&path=index.html&previewFirst=false" style="width: 100%; height: 600px; border: 0;"></iframe>
 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,javascript,python,next,typescript,tailwind,html,css,java,nodejs,figma,&theme=dark&perline=4)](https://skillicons.dev) -->
