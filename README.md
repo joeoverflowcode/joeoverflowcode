@@ -49,11 +49,6 @@ Passionate about tech, the outdoors and community.<br/> Let's get in touch!
 
 
 
-<iframe src="https://glitch.com/embed/#!/embed/luminous-gorgeous-stegosaurus?previewSize=0&attributionHidden=false&sidebarCollapsed=false&path=index.html&previewFirst=false" style="width: 100%; height: 600px; border: 0;"></iframe>
-
-
-<img src="https://glitch.com/edit/#!/luminous-gorgeous-stegosaurus?previewSize=0&attributionHidden=false&sidebarCollapsed=false&path=index.html&previewFirst=false" />
-<!-- [![My Skills](https://skillicons.dev/icons?i=react,javascript,python,next,typescript,tailwind,html,css,java,nodejs,figma,&theme=dark&perline=4)](https://skillicons.dev) -->
 
 
 <!---
