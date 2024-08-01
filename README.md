@@ -37,7 +37,7 @@ Passionate about tech, the outdoors and community.<br/> Let's get in touch!
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/joeoverflowcode/joeoverflowcode/output/github-contribution-grid-snake.svg" />
 <h2 align="center">Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,java,nextjs,tailwind,python,bootstrap,mongodb,figma,express,postgresql,rust,vercel,appwrite,postman,remix,redux,vite,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,nextjs,tailwind,bootstrap,mongodb,figma,express,postgresql,vercel,appwrite,postman,&perline=6" />
 </div>
 
 <h2 align="center">Stats ⚡</h2>
