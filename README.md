@@ -15,7 +15,7 @@ I'm a software developer from Dallas, Texas 🇺🇸</h1>  -->
 
 
 <h3 align="center">
-Passionate about tech, the outdoors and community.<br/> Let's get in touch!
+Passionate about tech, the outdoors and community.<br/> Feel free to connect with me on LinkedIn or send me an email. Check out my portfolio!
 
 </h3>
 
