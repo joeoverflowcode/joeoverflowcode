@@ -15,7 +15,8 @@ I'm a software developer from Dallas, Texas 🇺🇸</h1>  -->
 
 
 <h3 align="center">
-Feel free to connect with me on LinkedIn or send me an email. Check out my portfolio!
+Feel free to connect with me on LinkedIn or send me an email. <br/>
+    Check out my portfolio!
 
 </h3>
 
