@@ -6,7 +6,7 @@
 </div> -->
 
 <div align=center>
-<img src="https://github.com/joeoverflowcode/joeoverflowcode/blob/main/hero1.png"/>
+<img src="https://github.com/joeoverflowcode/joeoverflowcode/blob/main/surf2.png"/>
 </div>
 <!-- <h1 align="center">My name is Joe! <br/>
 I'm a software developer from Dallas, Texas 🇺🇸</h1>  -->
