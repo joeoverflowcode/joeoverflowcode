@@ -15,8 +15,7 @@ I'm a software developer from Dallas, Texas 🇺🇸</h1>  -->
 
 
 <h3 align="center">
-Feel free to connect with me on LinkedIn or send me an email. <br/>
-    Check out my portfolio!
+Add me on LinkedIn, send me an email or check out my other resources on my Github.io Page.
 
 </h3>
 
@@ -28,7 +27,7 @@ Feel free to connect with me on LinkedIn or send me an email. <br/>
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
     <a href="https://joeoverflowcode.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Github.io-FF5722?style=for-the-badge&logo=todois&logoColor=white" target="_blank" /> 
   </a>
 
    
